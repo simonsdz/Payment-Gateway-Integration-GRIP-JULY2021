@@ -1,6 +1,10 @@
-# Payment-Gateway-Integration-GRIP-JULY2021
-THE SPARKS FOUNDATION INTERNSHIP #GRIPJULY2021
+# sparks-charity-foundation-website
 
-TASK 3 : Create a website with Payment Integration
+THE SPARKS FOUNDATION INTERNSHIP
+#GRIPAPR2021
 
-Tools used: HTML, CSS, BOOTSTRAP, JQUERY Payment Integration: RazorPay
+TASK 3 : Payment Gateway Integration
+Create a website with payment integration
+
+Tools used :HTML,CSS,BOOTSTRAP,JQUERY
+Payment integration:Razorpay
